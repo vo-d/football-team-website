@@ -5,7 +5,7 @@ import Header from '../components/Header'
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className=' bg-gray-300'>
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
